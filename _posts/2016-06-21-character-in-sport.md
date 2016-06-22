@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Is teaching character through sport be possible"
-date:   2016-06-21 21:11:46 -0700
-categories: NCAC2016
+date:   2016-06-21 15:45:00
+categories: day-1
 ---
 
 [Kevin Bryant](kevin.bryant024@outlook.com)

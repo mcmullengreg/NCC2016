@@ -2,7 +2,7 @@
 layout: post
 title:  "The youth sport project: \"Activate your State\""
 date:   2016-06-21 21:11:46 -0700
-categories: NCAC2016
+categories: day-1
 ---
 
 [David McCann](david@youthsportproject.org)
