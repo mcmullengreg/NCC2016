@@ -1,0 +1,87 @@
+Module Theme: Educating Youth (Volunteer) Coaches
+
+# National Coaching Conference
+
+## Keynote 1: Daniel Gould - Making Coaching Science Count: The need for Knowledge Integration & Dissemination
+
+- Where we go as a field through research
+- Professionalization of coaching
+  - Increasing calls
+  - Coaching science merging
+    - International coaching counsels, journals, etc.
+    - Publishing research on coaching; shifting from isolated studies to series of studies
+    - interrelated studies and answering studies
+  - more research doesn't not mean it should guide practice; needs to be right research
+- Is research enough to inform practice?
+  - Rewards for research: Highly ranked peer review; publication factor & citations; grants; indirect costs
+
+- Knowledge is essential. Too much focus on non-integration is a potential problem
+  - affects credibility and normally doesn't speak common language
+  - disconnect of what we know and what we do
+  - practitioners and researches don't interact appropriately.
+
+Not enough preparation in how to actually USE the research vs how to DO it
+Fail to help practitioners to find trusted sources
+
+Fail to inform on the same level; what the application or implication of the research is and effectively communicate it
+
+Best coaches will already come, they want to consume. The one's you WANT to change will not. -- How do you get them to come?
+
+RE-AIM Model
+Reach; Efficacy; Adoption ( who adopts the program ); Implementation; Maintenance
+
+re-aim.org
+
+## Knowledge Transfer
+
+Premature specialization; removal of multi-sport involvement by high school
+
+BCW is Systems-Based
+
+Government - Policy
+Community - Comm expectations
+Organization - Programming
+Practitioners - Coaching Educators
+Individual - Coaches
+
+Three conditions to change behavior
+
+1. Psychological or physical ability - capability
+2. Opportunity - Reflective
+  Social/Physical
+3. Motivation - Desire to change
+  Reflection
+
+Diffusion theory:
+
+Don't push the mass of a new idea. Grab the early adopters and innovators FIRST
+If influential coaches use something, others will be willing to follow suit
+
+Highlight the importance of understanding the SOCIAL nature
+
+Marketing an idea to sell it for the good; but initially focus on an influencer group
+
+1. Who is the target audience for a course? Who do you want to change? What is the course focusing on, and who for?
+2. Who are the opinion leaders/orgs?
+3. Use the existing structure to distribute change material
+4. Target key figures and proponents
+5. Provide implementation support -- FOLLOW UP
+6. Anticipate activity -- if you are working with someone the will change it. Expect people to change things (add electives)
+7. Design programs to invite adaptations (2 or three choices to pick from; intrinsic motivation)
+8. Clarify program's "theory of change" and core components to enhance the likelihood of change
+  - resources/input; activities (logical model - planned work)
+  - outputs; outcomes; impact (intended results)
+9. Use marketing research to facilitate adoption and implementation
+10. Group alternatives
+
+Sport and coaching science is APPLIED - need to recognize power and knowledge of coaches
+research is of little good without sending it out to the pubic
+
+----
+
+Keynote tie in:
+
+- Youth coaches have a great tool available to them (online + article research, etc), but at the lower levels are coaches actually going to be able to understand and apply the information? How can the information be disseminated appropriately to the coach? Will the coach actually USE the information? How do you get them to adopt and adapt to the information? How do you ensure a coach will use valid information, and not just something found online with no scientific backing?
+- How would you use RE-AIM to integrate into a volunteer youth program.
+- If you don't come to the clinic, what are the ramifications/motivations to do so?
+- How would you reach the majority of the coaches within the program?
