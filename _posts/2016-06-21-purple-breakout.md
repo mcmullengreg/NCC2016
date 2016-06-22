@@ -1,4 +1,9 @@
-# The youth sport project: "Activate your State"
+---
+layout: post
+title:  "The youth sport project: \"Activate your State\""
+date:   2016-06-21 21:11:46 -0700
+categories: NCAC2016
+---
 
 [David McCann](david@youthsportproject.org)
 
@@ -7,6 +12,7 @@ DNA testing for athletic skills?
 Game On - Pressure to win at all costs endangers youth sports, and what parents can do about it (Tom Farrey)
 
 Project Play - Led by Tom Farrey
+
   - Wanted to help athletes reach their full potential
 
 Eight "Plays" for Project Play
@@ -26,16 +32,7 @@ How do we take what we know (e.g. project play) and enact it?
 
 Impact free play has on creativity
 
-**Strategy 1:** Provide initial and on-going coaches education program. Align it with project play strategies and standards
-**Strategy 2:** Provide physical literacy assessment and activity. If you can't run you can't play ___ etc.
-**Strategy 3:** Sport Parent support
-**Strategy 4:** Evaluate and Improvement: Are coaches getting success; are parents happy; retention
-
-----
-Tying in:
-
-
------
-
-# Best Practices in Formal Distance Education
-Brian Gearity
+- **Strategy 1:** Provide initial and on-going coaches education program. Align it with project play strategies and standards
+- **Strategy 2:** Provide physical literacy assessment and activity. If you can't run you can't play ___ etc.
+- **Strategy 3:** Sport Parent support
+- **Strategy 4:** Evaluate and Improvement: Are coaches getting success; are parents happy; retention
