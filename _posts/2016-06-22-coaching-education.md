@@ -164,3 +164,32 @@ How to maintain quality coaching ed content and instructors?
 - 77% feel there are not enough qualified coaches in their sport
 - Critical age periods for motor abilities exist
   - E.g. learn a second language at a young age
+
+---
+
+## transformational leaders
+
+Positive outcomes
+
+- intrinsic motivation
+- effort
+- team cohesion
+- athlete wellbeing
+- positive youth development.
+
+### High performance expectations
+
+Worry if people don't tell you what's wrong; indicator that you don't care. 
+
+High expectations are good. Don't expect to be perfect, provide a perfect effort
+
+Build coaching confidence 
+Seeing athletes progress builds confidence as a coach
+
+Coaching development
+Knowledge/prep
+Leadership skills
+
+Caring lots of presentations on it
+
+Because coaches care, they trust them motivate them and provide a deeper perspective that they can be successful
